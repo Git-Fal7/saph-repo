@@ -1,2 +1,2 @@
 #/bin/sh
-repo-add saph-repo.db.tar.gz *.pkg.tar.xz
+repo-add saph-repo.db.tar.gz *.pkg.tar.zst
