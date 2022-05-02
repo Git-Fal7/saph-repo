@@ -17,6 +17,8 @@ my arch repo, with packages i use
  
  ``st`` st that has scrollback + fitting theme
  
+ ``qmpanel`` lighter lxqt-panel
+ 
 # installing
 put this in your ``/etc/pacman.conf``
 ```
