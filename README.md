@@ -19,6 +19,8 @@ my arch repo, with packages i use
  
  ``qmpanel`` lighter lxqt-panel
  
+ ``sddm-theme-deepin-git`` theme for sddm that resembles deepin
+ 
 # installing
 put this in your ``/etc/pacman.conf``
 ```
